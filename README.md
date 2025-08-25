@@ -14,14 +14,14 @@ Welcome to **Tiffin Fusion**, your one-stop solution for connecting with local t
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Contact Us](#contact-us)
-- [Contributors](#contributors)
+- [Author](#author)
 - [License](#license)
 
 ---
 
 ## About Us
 
-At **Tiffin Fusion**, we understand the value of nutritious, delicious, and affordable meals that feel like home. Founded by three friends driven by their shared passion for food and community, we aim to make quality dining accessible to everyone. 
+At **Tiffin Fusion**, we understand the value of nutritious, delicious, and affordable meals that feel like home. Founded with a passion for food and community, we aim to make quality dining accessible to everyone. 
 
 Our platform bridges the gap between busy lifestyles and wholesome meals by partnering with trusted local tiffin centers. With a focus on variety, health, and affordability, we deliver meals tailored to your preferences right to your doorstep.
 
@@ -142,19 +142,21 @@ A: Yes, you can modify your meal plan at any time through your account settings.
 **Q: Do you offer vegetarian or vegan options?**  
 A: Yes, we offer a variety of vegetarian and vegan meal plans.
 
+---
+
 ## Getting Started
 
 Want to run **Tiffin Fusion** locally? Follow these steps:
 
-## Backend Setup
+### Backend Setup
 
 Detailed backend setup instruction can be found in `Server` folder
 
-## Installation
+### Installation
 
 Follow these steps to get the Tiffin Fusion project up and running on your local machine:
 
-### Prerequisites
+#### Prerequisites
 
 Before you begin, ensure that you have the following installed:
 
@@ -162,56 +164,29 @@ Before you begin, ensure that you have the following installed:
 - **npm** or **yarn** (for managing JavaScript packages)
 - **Git** (for cloning the repository)
 
+---
+
 ## Contributing
 
 We welcome contributions to the Tiffin Fusion project! Whether it's fixing bugs, adding new features, or improving documentation, your help is appreciated. Please follow the steps below to contribute:
 
-### Steps to Contribute
-
-1. **Fork the Repository**  
-   - Click the "Fork" button at the top-right corner of the repository page on GitHub to create your own copy of the repository.
-
-2. **Clone Your Fork**  
-   Clone your forked repository to your local machine:
-   ```
-      git clone https://github.com/your-username/tiffin-fusion.git
-3. **Create a New Branch**  
-Create a new branch for the changes you want to make:
-
-   ```
-      git checkout -b feature-name
-   ```
+1. **Fork the Repository**
+2. **Clone Your Fork**
+3. **Create a New Branch**
 4. **Make Your Changes**
-Implement the feature or fix the bug. Make sure to add tests if necessary and update the documentation as needed.
+5. **Commit and Push**
+6. **Submit a Pull Request**
 
-5. **Commit Your Changes**
-Commit your changes with a clear and concise message:
-   ```
-      git add .
-      git commit -m "Description of the changes you made"
-   ```
-
-6. Push to Your Fork
-Push the changes to your forked repository:
-   ```
-      git push origin feature-name
-   ```
-
-7. **Submit a Pull Request**
-Go to the original repository on GitHub and click on "Pull Requests". Click the "New Pull Request" button and submit your changes.
+---
 
 ## Code of Conduct
 
 We are committed to fostering a welcoming and respectful community. Please:
 - Use inclusive language and be respectful of differing viewpoints.
 - Avoid harassment, insults, or sexualized content.
-- Report any unacceptable behavior to the project maintainers at [your contact email].
+- Report any unacceptable behavior.
 
-### Additional Guidelines
-- Ensure your code follows the project’s style.
-- Write clear commit messages.
-- Update documentation when necessary.
-- If fixing a bug, reference the issue number.
+---
 
 ## Contact Us
 
@@ -221,12 +196,19 @@ We’d love to hear from you! For inquiries, feedback, or support, reach out to 
 - **Email**: [info@tiffinfusion.com](mailto:info@tiffinfusion.com)
 
 ---
-## Contributors
-A huge shoutout to our wonderful contributors 
 
-<a href="https://github.com/saismrutiranjan18/Tiffin_Fusion/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=saismrutiranjan18/Tiffin_Fusion" />
-</a>
+## Author
+
+👤 **Sahil Malaiya**  
+- [GitHub](https://github.com/Sahil-Malaiya)  
+- [LinkedIn](https://www.linkedin.com/in/sahil-malaiya-0466a4252/)  
+- [Email](mailto:sahilmalaiya7@gmail.com)  
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. You can view the full license text in the `LICENSE` file in this repository.
 
 ---
 ## License
